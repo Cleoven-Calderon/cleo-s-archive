@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Cleoven Calderon  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Aspiring+Software+Developer;Passionate+about+Machine+Learning;Exploring+Data+Analytics;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Aspiring+Software+Developer;A+Passion+For+Machine+Learning;Exploring+Data+Analytics;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
 ---
