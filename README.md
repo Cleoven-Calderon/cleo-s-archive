@@ -33,6 +33,19 @@
 
 ---
 
+## 🎉 Fun Extras
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Cleoven-Calderon&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" alt="trophies"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cleoven-Calderon/Cleoven-Calderon/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
 
 ## 📫 Connect with Me
 - GitHub: [@Cleoven-Calderon](https://github.com/Cleoven-Calderon)
@@ -41,11 +54,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Cleoven-Calderon&style=for-the-badge&color=blue" alt="profile views"/>
-</p>
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Cleoven-Calderon/Cleoven-Calderon/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ⭐️ *"Code, Learn, and Build – One step at a time."*  
