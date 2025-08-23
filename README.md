@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cleoven Jee Calderon</h1>
 <h3 align="center">A passionate data analyst on the making!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cleo-nums&label=Profile%20views&color=37ff80&style=plastic" alt="cleo-nums" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cleoven-calderon&label=Profile%20views&color=ff0537&style=plastic" alt="cleoven-calderon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cleo-nums" alt="cleo-nums" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cleoven-calderon" alt="cleoven-calderon" /></a> </p>
 
 - 🌱 I’m currently learning **Python and Machine Learning**
 
@@ -20,8 +20,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleo-nums&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=37ff80&locale=en&layout=compact" alt="cleo-nums" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleoven-calderon&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=ff0537&locale=en&layout=compact" alt="cleoven-calderon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cleo-nums&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=37ff80&locale=en" alt="cleo-nums" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cleoven-calderon&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=ff0537&locale=en" alt="cleoven-calderon" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cleo-nums&" alt="cleo-nums" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cleoven-calderon&theme=dark" alt="cleoven-calderon" /></p>
