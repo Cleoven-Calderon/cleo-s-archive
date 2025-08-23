@@ -1,35 +1,52 @@
-<h1 align="center">Hello there!</h1>
+# 👋 Hi, I'm Cleoven Calderon  
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Aspiring+Software+Developer;Passionate+about+Machine+Learning;Exploring+Data+Analytics;Always+Learning+New+Things!" alt="Typing SVG" />
+</p>
 
-<h4 align="center">I am Cleoven Calderon, an aspiring software developer~</h4>
+---
 
-###
+## 🌟 About Me
+- 🚀 An aspiring **Software Developer**  
+- 📊 Passionate about **Data Analytics** and **Machine Learning**  
+- 💻 Skilled in **Python** with experience in **SQLite3, Git, Pandas, NumPy**  
+- 🎯 Goal: To build **intelligent, data-driven solutions**  
 
-<h4 align="left">I have experience with:</h4>
+---
 
-###
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-</div>
+---
 
-###
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cleoven-Calderon&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cleoven-Calderon&theme=tokyonight" alt="GitHub streak" height="160"/>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cleo-nums/cleo-nums/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cleo-nums/cleo-nums/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cleo-nums/cleo-nums/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+## 🎉 Fun Extras
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Cleoven-Calderon&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" alt="trophies"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+- GitHub: [@Cleoven-Calderon](https://github.com/Cleoven-Calderon)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Cleoven-Calderon&style=for-the-badge&color=blue" alt="profile views"/>
+</p>
+
+⭐️ *"Code, Learn, and Build – One step at a time."*  
