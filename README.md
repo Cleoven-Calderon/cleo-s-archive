@@ -34,15 +34,6 @@
 ---
 
 
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Cleoven-Calderon/Cleoven-Calderon/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ## 📫 Connect with Me
 - GitHub: [@Cleoven-Calderon](https://github.com/Cleoven-Calderon)
 
