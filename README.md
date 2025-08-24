@@ -36,7 +36,7 @@
 
 ## 📫 Connect with Me
 - GitHub: [@Cleoven-Calderon](https://github.com/Cleoven-Calderon)
-
+- Email: [@CleovenJee](calderoncj58@gmail.com)
 ---
 
 <p align="center">
