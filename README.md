@@ -26,11 +26,7 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cleoven-Calderon&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cleoven-Calderon&theme=tokyonight" alt="GitHub streak" height="160"/>
-</p>
-
+<p align="center"> <!-- Using a more reliable stats API --> <img src="https://github-readme-stats.vercel.app/api?username=Cleoven-Calderon&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats" height="160"/> <!-- Using an alternative for streak stats --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cleoven-Calderon&theme=tokyo-night&area=true&hide_border=true" alt="GitHub activity graph" height="160"/> </p>
 ---
 
 
