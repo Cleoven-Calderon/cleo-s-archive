@@ -28,7 +28,7 @@
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cleoven-Calderon&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cleoven-Calderon&theme=tokyonight" alt="GitHub streak" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cleoven-Calderon&theme=tokyonight" alt="GitHub streak" height="161"/>
 </p>
 ---
 
